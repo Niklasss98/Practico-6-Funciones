@@ -1,4 +1,9 @@
-# trabajo-practico-typescript
+# Practico-6-Funciones
+
+Entrega del Trabajo Práctico N6 de Desarrollo de Software
+
+Alumno: Lucca, Nicolás Ignacio / Legajo: 44064 / Curso: 3K09
+
 En este trabajo práctico, vamos a consumir un endpoint que nos va a devolver 20 productos que luego listaremos en una tabla de Bootstrap y mientras hacemos la consulta mostraremos un spinner y lo ocultaremos cuando tengamos el resultado.
 
 Usaremos un type alias para nuestra entidad producto con las propiedades contenidas en los 20 productos resultantes.
